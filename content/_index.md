@@ -270,7 +270,7 @@ sections:
           name: Zoom Me
           link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: false
+      autolink: true
       # Email form provider
       form:
         provider: netlify
@@ -278,7 +278,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
