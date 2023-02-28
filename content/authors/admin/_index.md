@@ -1,5 +1,5 @@
 ---
-# avatar_filename: hello-memoji.png
+avatar_filename: hello-memoji.png
 bio: My research interests include graph algorithms, algorithm engineering and enumeration.
 interests:
   - Combinatorial Algorithms 
