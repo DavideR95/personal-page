@@ -1,11 +1,10 @@
 ---
 avatar_filename: hello-memoji.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include graph algorithms, algorithm engineering and enumeration.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Combinatorial Algorithms 
+  - Graphs
+  - Enumeration
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,7 +24,7 @@ social:
     label: Google Scholar
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/DavideR95
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/davide-rucci-3047bb189/
@@ -52,10 +51,11 @@ status:
 last_name: Rucci
 role: PhD Student
 highlight_name: true
-title: Davide Rucci
+title: Davide Rucci (he/him)
 first_name: Davide
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Davide Rucci is a PhD student at the Computer Science dept. of the University of Pisa.
+His research research interests include the design of algorithms and data structures on graphs, algorithm engineering, enumeration.
+
