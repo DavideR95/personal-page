@@ -10,46 +10,50 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    label: Send me an email
     display:
       header: true
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/GeorgeCushen
+#     label: Follow me on Twitter
+#     display:
+#       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=beMth1oAAAAJ
+    label: Google Scholar
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/davide-rucci-3047bb189/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Pisa
+    url: https://di.unipi.it/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: University of Pisa
+      year: 2020 – present
+    - course: MEng in Computer Science
+      institution: University of Pisa
+      year: 2020
+    - course: BSc in Computer Science
+      institution: University of Pisa
+      year: 2017
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Rucci
 role: PhD Student
 highlight_name: true
 title: Davide Rucci
-first_name: Alice
+first_name: Davide
 email: ""
 ---
 
