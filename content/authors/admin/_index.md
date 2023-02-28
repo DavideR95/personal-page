@@ -53,9 +53,9 @@ role: PhD Student
 highlight_name: true
 title: Davide Rucci (he/him)
 first_name: Davide
-email: ""
+email: "davide.rucci@phd.unipi.it"
 ---
 
-Davide Rucci is a PhD student at the Computer Science dept. of the University of Pisa.
-His research research interests include the design of algorithms and data structures on graphs, algorithm engineering, enumeration.
+Davide Rucci is a PhD student at the Computer Science department of the University of Pisa.
+His research research interests include the design of algorithms and data structures on graphs, algorithm engineering and enumeration.
 
