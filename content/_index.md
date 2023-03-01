@@ -35,7 +35,7 @@ sections:
     #     gradient_end: '#1976d2'
     #     gradient_start: '#004ba0'
     #     text_color_light: true
-  - block: about.avatar
+  - block: about
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -62,6 +62,38 @@ sections:
     id: education
     content:
       title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Teaching Assistant
+          company: University of Pisa
+          company_url: 'www.di.unipi.it'
+          company_logo: 
+          location: Italy
+          date_start: '2022-09-01'
+          date_end: '2022-12-01'
+          description: |2-
+              Teaching assistant for the course "Fondamenti di Informatica", first year Bachelor's Degree.
+        # - title: Professor of Semiconductor Physics
+        #   company: University X
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2016-01-01'
+        #   date_end: '2020-12-31'
+        #   description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      columns: '2'
+  - block: experience
+    id: experience
+    content:
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006

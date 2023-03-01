@@ -6,26 +6,26 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 1
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
   - name: Education
     url: '#education'
-    weight: 20
+    weight: 2
+  - name: Experience
+    url: '#experience'
+    weight: 3
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 4
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 100
   - name: CV
     url: 'uploads/CV.pdf'
-    weight: 50
+    weight: 101
     
