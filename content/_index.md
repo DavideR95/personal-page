@@ -58,7 +58,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: education
+  - block: experience
     id: education
     content:
       title: Education
