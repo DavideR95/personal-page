@@ -51,7 +51,7 @@ status:
 last_name: Rucci
 role: PhD Student
 highlight_name: true
-title: Davide Rucci (he/him)
+title: Davide Rucci
 first_name: Davide
 email: "davide.rucci@phd.unipi.it"
 ---
