@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Davide Rucci's Personal Page
-date: 2022-10-24
+date: 2023-03-01
 type: landing
 
 sections:
