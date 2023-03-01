@@ -48,7 +48,7 @@ sections:
       items:
         - name: Programming
           description: C/C++11/C++17, Java, Python 3
-          icon: computer
+          icon: laptop-code
           icon_pack: fas
         - name: Teaching & Organization
           description: I am very passionate about teaching and creating lectures or lecture notes.
@@ -71,23 +71,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Teaching Assistant
+        - title: PhD – Computer Science
           company: University of Pisa
-          company_url: 'www.di.unipi.it'
+          company_url: 'https://www.di.unipi.it'
           company_logo: 
           location: Italy
           date_start: '2022-09-01'
           date_end: '2022-12-01'
           description: |2-
-              Teaching assistant for the course "Fondamenti di Informatica", first year Bachelor's Degree.
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
+              Topics: graph algorithms, algorithm engineering, community detection, temporal graphs.
+              Supervised by prof. Roberto Grossi and dott. Alessio Conte
+        - title: Master's Degree
+          company: University of Pisa
+          company_url: 'https://www.di.unipi.it'
+          company_logo: 
+          location: Italy
+          date_start: '2017-10-01'
+          date_end: '2020-10-01'
+          description: 'Curriculum: Data & Knowledge – Science & Technology'
     design:
       columns: '2'
   - block: experience
@@ -105,7 +106,7 @@ sections:
       items:
         - title: Teaching Assistant
           company: University of Pisa
-          company_url: 'www.di.unipi.it'
+          company_url: 'https://www.di.unipi.it'
           company_logo: 
           location: Italy
           date_start: '2022-09-01'
