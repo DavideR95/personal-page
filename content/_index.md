@@ -50,13 +50,13 @@ sections:
           description: C/C++11/C++17, Java, Python 3
           icon: computer
           icon_pack: fas
-        - name: Teaching
-          description: 100%
+        - name: Teaching & Organization
+          description: I am very passionate about teaching and creating lectures or lecture notes.
           icon: person-chalkboard
           icon_pack: fas
         - name: Team Work
-          description: 10%
-          icon: camera-retro
+          description: I love sharing ideas with my collegues and live an inspirational place.
+          icon: lightbulb-exclamation-on
           icon_pack: fas
   - block: experience
     id: education
