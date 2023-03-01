@@ -29,7 +29,7 @@ social:
     link: https://www.linkedin.com/in/davide-rucci-3047bb189/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 organizations:
   - name: University of Pisa
     url: https://di.unipi.it/
