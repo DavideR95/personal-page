@@ -48,7 +48,7 @@ sections:
       items:
         - name: Programming
           description: C/C++11/C++17, Java, Python 3
-          icon: computer-classic
+          icon: computer
           icon_pack: fas
         - name: Statistics
           description: 100%
