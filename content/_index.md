@@ -50,9 +50,9 @@ sections:
           description: C/C++11/C++17, Java, Python 3
           icon: computer
           icon_pack: fas
-        - name: Statistics
+        - name: Teaching
           description: 100%
-          icon: chart-line
+          icon: person-chalkboard
           icon_pack: fas
         - name: Team Work
           description: 10%
