@@ -56,8 +56,8 @@ sections:
           icon_pack: fas
         - name: Team Work
           description: I love sharing ideas with my collegues and live an inspirational place.
-          icon: lightbulb-on
-          icon_pack: fas
+          icon: lightbulb
+          icon_pack: far
   - block: experience
     id: education
     content:
