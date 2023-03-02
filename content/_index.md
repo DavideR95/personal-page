@@ -156,7 +156,7 @@ sections:
           date_start: '2019-02-01'
           date_end: '2019-07-01'
           description: |2-
-              Organized supplementary lectures for students of the course "Algoritmica & Laboratorio" on C programming and theoretical recaps of the syllabus. Created a collection of theoretical and practical exercizes, available on [GitHub](https://github.com/DrDav/Algo1819).
+              Organized supplementary lectures for students of the course "Algoritmica & Laboratorio" on C programming and theoretical recaps of the syllabus. Created a collection of theoretical and practical exercizes, available on [GitHub](https://github.com/DrDav/Algo1819) (in italian).
     design:
       columns: '2'
 #   - block: accomplishments
@@ -309,17 +309,17 @@ sections:
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: davide[dot]rucci[at]phd[dot]unipi[dot]it
-      #phone: 888 888 88 88
+      email: davide [dot] rucci [at] phd [dot] unipi [dot] it
+      phone: +390502212706
       #appointment_url: 'https://calendly.com'
       address:
-        street: Largo Bruno Pontecorvo 3, building C
+        street: Largo Bruno Pontecorvo 3
         city: Pisa
-        #region: IT
-        postcode: '56123'
+        region: PI
+        postcode: '56127'
         country: Italy
         country_code: IT
-      directions: Office 300, Floor 2
+      directions: Department of Computer Science, Room 300E, Floor 2 (Building C)
     #   office_hours:
     #     - 'Monday 10:00 to 13:00'
     #     - 'Wednesday 09:00 to 10:00'
