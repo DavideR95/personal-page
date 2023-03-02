@@ -28,8 +28,7 @@ publication_types: ['7']
 publication: Master's Thesis
 publication_short: Master's Thesis
 
-abstract: |2- 
-'In undirected graphs, a clique is a subset of its vertices which are all pairwise connected.
+abstract: 'In undirected graphs, a clique is a subset of its vertices which are all pairwise connected.
 The problem of detecting all cliques of a graph has received extensive study due to its various fields of applications, ranging from detecting social communities, through the development of integrated circuits, to extracting information from protein interactions and even detecting communities of dolphins in the ocean.
 The clique problem is also of relevant interest from the theoretical point of view, since it is one of the first 21 problems to be classified as NP-Complete by Karp in 1972. For these reasons many different strategies were adopted throughout the years to solve it as fast as possible, including heuristics and approximation algorithms.
 The version of the clique problem that we attack in this thesis is the enumerative one, as we want to list and count every inclusion-maximal clique found in large graphs.
