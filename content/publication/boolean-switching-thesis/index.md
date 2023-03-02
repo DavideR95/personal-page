@@ -28,8 +28,8 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advanced Boolean Techniques*
-publication_short: In *IWBP*
+publication: In *Advanced Boolean Techniques*, selected papers from the *13th International Workshop on Boolean Problems*
+publication_short: In *13th International Workshop on Boolean Problems*
 
 abstract: Switching lattices are two-dimensional arrays of four-terminal switches proposed in a seminal paper by Akers in 1972 to implement Boolean functions. Recently, with the advent of a variety of emerging nanoscale technologies based on regular arrays of switches, synthesis methods targeting lattices of multi-terminal switches have found a renewed interest. In this paper we discuss two different combinatorial problems related to the assignment of input literals to switches in a lattice when multiple choices are possible at some switch. We propose and develop efficient heuristic algorithms for both problems and discuss the implication of the different solutions on the layout of switching lattices. Experimental results on a set of known benchmarks confirm the effectiveness of the proposed heuristics.
 
