@@ -1,5 +1,5 @@
 ---
-title: 'Literal Selection in Switching Lattice Design'
+title: 'Listing Large Cliques in Real-World Graphs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,7 +22,7 @@ publishDate: '2023-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
 publication: Master's Thesis
@@ -44,7 +44,7 @@ We design new fast methods to further reduce the number of recursive calls made 
 We plug our strategy into the existing implementation of the algorithm by D. Strash and we do extensive testing both on real and randomly generated datasets with different properties to show its practical efficiency with respect to Eppstein's starting algorithm, and how this relates to the structure of the graphs.'
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ''
 
 tags: []
 
