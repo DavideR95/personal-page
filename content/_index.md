@@ -44,20 +44,24 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: About me
       items:
         - name: Programming
           description: C/C++11/C++17, Java, Python 3
           icon: laptop-code
           icon_pack: fas
         - name: Teaching & Organization
-          description: I am very passionate about teaching and creating lectures or lecture notes.
+          description: I am very passionate about teaching and organizing lectures and notes.
           icon: person-chalkboard
           icon_pack: fas
         - name: Team Work
-          description: I love sharing ideas with my collegues and live an inspirational place.
+          description: I love sharing ideas with my collegues and discuss what can be done better.
           icon: lightbulb
           icon_pack: far
+        - name: Music & Memes
+          description: This is a personality trait if I may say so.
+          icon: spotify
+          icon_pack: fab
   - block: experience
     id: education
     content:
