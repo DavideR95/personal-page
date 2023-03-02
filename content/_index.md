@@ -81,7 +81,7 @@ sections:
           description: |2-
               Topics: graph algorithms, algorithm engineering, community detection, temporal graphs.
               Supervised by prof. Roberto Grossi and dott. Alessio Conte
-        - title: Master's Degree
+        - title: Master's Degree – Computer Science
           company: University of Pisa
           company_url: 'https://www.di.unipi.it'
           company_logo: 
@@ -89,6 +89,14 @@ sections:
           date_start: '2017-10-01'
           date_end: '2020-10-01'
           description: 'Curriculum: Data & Knowledge – Science & Technology'
+        - title: Bachelor's Degree – Computer Science
+          company: University of Pisa
+          company_url: 'https://www.di.unipi.it'
+          company_logo: 
+          location: Italy
+          date_start: '2014-09-01'
+          date_end: '2017-10-01'
+          description: ''
     design:
       columns: '2'
   - block: experience
@@ -112,15 +120,43 @@ sections:
           date_start: '2022-09-01'
           date_end: '2022-12-01'
           description: |2-
-              Teaching assistant for the course "Fondamenti di Informatica", first year Bachelor's Degree.
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
+              Teaching assistant for the course "Fondamenti di Informatica", first year Bachelor's Degree (supervised students during exercize classes on theoretical topics).
+        - title: Teaching Assistant
+          company: University of Pisa
+          company_url: 'https://www.di.unipi.it'
+          company_logo: 
+          location: Italy
+          date_start: '2021-09-01'
+          date_end: '2021-12-01'
+          description: |2-
+              Teaching assistant for the course "Fondamenti di Informatica", first year Bachelor's Degree (supervised students during exercize classes on theoretical topics).
+        - title: Teaching Assistant
+          company: University of Pisa
+          company_url: 'https://www.di.unipi.it'
+          company_logo: 
+          location: Italy
+          date_start: '2021-02-01'
+          date_end: '2021-07-01'
+          description: |2-
+              Lab teaching assistant for the laboratory module of the course "Sistemi Operativi & Laboratorio", second year Bachelor's Degree (C system programming).
+        - title: Teaching Assistant
+          company: University of Pisa
+          company_url: 'https://www.di.unipi.it'
+          company_logo: 
+          location: Italy
+          date_start: '2021-09-01'
+          date_end: '2021-12-01'
+          description: |2-
+              Teaching assistant for the laboratory module of the course "Algoritmica & Laboratorio", first year Bachelor's Degree (C algorithmic programming and theoretical topics related).
+        - title: Student Counselor
+          company: University of Pisa
+          company_url: 'https://www.di.unipi.it'
+          company_logo: 
+          location: Italy
+          date_start: '2019-02-01'
+          date_end: '2019-07-01'
+          description: |2-
+              Organized supplementary lectures for students of the course "Algoritmica & Laboratorio" on C programming and theoretical recaps of the syllabus. Created a collection of theoretical and practical exercizes, available on [GitHub](https://github.com/DrDav/Algo1819).
     design:
       columns: '2'
 #   - block: accomplishments
