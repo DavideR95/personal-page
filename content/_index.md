@@ -58,7 +58,7 @@ sections:
           description: I love sharing ideas with my collegues and discuss what can be done better.
           icon: lightbulb
           icon_pack: far
-        - name: Music & Memes
+        - name: Music, Pop Culture
           description: This is a personality trait if I may say so.
           icon: spotify
           icon_pack: fab
