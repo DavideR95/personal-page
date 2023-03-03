@@ -11,6 +11,8 @@ appearance:
   font: minimal
   font_size: L
 
+plugin_css: ["custom"]
+
 # SEO
 
 marketing:
@@ -18,8 +20,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Davide Rucci is a PhD Student in Computer Science at the University of Pisa.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -87,15 +89,15 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'google'
+    api_key: 'AIzaSyDnukfIDQSvu8FbT-LW_uhPGqeAZwHtDRU'
     zoom: 15
 
 # Extensions

@@ -324,6 +324,9 @@ sections:
         country: Italy
         country_code: IT
       directions: Department of Computer Science, Room 300E, Floor 2 (Building C)
+      coordinates:
+        latitude: '43.7199038'
+        longitude: '10.4076136'
     #   office_hours:
     #     - 'Monday 10:00 to 13:00'
     #     - 'Wednesday 09:00 to 10:00'
